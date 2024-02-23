@@ -4,3 +4,5 @@
 # -e: Show all processes
 # -f: Display full format
 # --forest: Show process hierarchy
+
+ps auxf
