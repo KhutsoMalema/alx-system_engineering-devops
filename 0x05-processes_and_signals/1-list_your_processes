@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# This script displays a list of currently running processes
+# -e: Show all processes
+# -f: Display full format
+# --forest: Show process hierarchy
