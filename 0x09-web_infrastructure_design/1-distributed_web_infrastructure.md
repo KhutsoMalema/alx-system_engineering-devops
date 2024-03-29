@@ -1,6 +1,6 @@
 # Distributed Web Infrastructure
 
-![Image of a distributed web infrastructure](https://www.canva.com/design/DAGA5z8Mm1c/bD-bNdj-w1Nn1xWbb99UTw/view?utm_content=DAGA5z8Mm1c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![1-distributed_web_infrastructure](https://github.com/KhutsoMalema/alx-system_engineering-devops/assets/135473280/91baab65-833d-471c-a0d8-3877ddffd637)
 
 [Visit Board](https://www.canva.com/design/DAGA5z8Mm1c/bD-bNdj-w1Nn1xWbb99UTw/view?utm_content=DAGA5z8Mm1c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
