@@ -1,6 +1,6 @@
 # Distributed Web Infrastructure
 
-![1-distributed_web_infrastructure](https://github.com/KhutsoMalema/alx-system_engineering-devops/assets/135473280/91baab65-833d-471c-a0d8-3877ddffd637)
+![1-distributed_web_infrastructure](https://github.com/KhutsoMalema/alx-system_engineering-devops/assets/135473280/4dde0bd0-ab02-4ba4-bd2d-4d7a9a8dae9f)
 
 [Visit Board](https://www.canva.com/design/DAGA5z8Mm1c/bD-bNdj-w1Nn1xWbb99UTw/view?utm_content=DAGA5z8Mm1c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
