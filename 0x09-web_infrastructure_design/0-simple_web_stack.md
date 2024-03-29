@@ -1,6 +1,6 @@
 # simple web stack
 
-![image of a simple web stack](https://www.canva.com/design/DAGA5zpkneM/SWpRoK-LbdPIMMosWIPMnQ/view?utm_content=DAGA5zpkneM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![0-simple_web_stack](https://github.com/KhutsoMalema/alx-system_engineering-devops/assets/135473280/20b86eef-d662-4302-ac2f-5e0a0966afe2)
 
 [visit board](https://www.canva.com/design/DAGA5zpkneM/SWpRoK-LbdPIMMosWIPMnQ/view?utm_content=DAGA5zpkneM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
